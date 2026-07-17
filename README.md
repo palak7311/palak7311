@@ -5,12 +5,10 @@
 </h3>
 
 <p align="center">
-<i>Where curiosity meets artificial intelligence. ✨
-</i> 🚀
-  <i>Every line of code brings ideas to life. 💻 
-</i> 🚀
+  <i>Where curiosity meets artificial intelligence. ✨</i> 🚀
+  <br><br>
+  <i>Every line of code brings ideas to life. 💻</i> 🚀
 </p>
-
 
 ---
 
