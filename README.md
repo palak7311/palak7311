@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Palak Deval</h1>
 
-<!--
-**palak7311/palak7311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🤖 AI & Machine Learning Enthusiast | B.Tech CSE (AI) Student
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<i>"Learning today. Building the future with AI."</i> 🚀
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 👩‍💻 About Me
+
+- 🌱 Currently learning **Deep Learning & Computer Vision**
+- 💡 Passionate about building AI-powered applications
+- 💻 Skilled in **Python, JavaScript, HTML, CSS & React.js**
+- 🚀 Always exploring new technologies and solving real-world problems
+
+---
+
+### 🛠️ Tech Stack
+
+`Python` • `JavaScript` • `HTML` • `CSS` • `React.js`
+
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn`
+
+`Git` • `GitHub` • `VS Code` • `Jupyter Notebook`
+
+---
+
+### 🚀 Featured Projects
+
+✨ Movie Recommendation System  
+🛒 E-Commerce Intelligent System  
+📚 Library Management System  
+🌐 Portfolio Website
+
+---
+
+### 🌐 Connect With Me
+
+📧 your-email@example.com  
+💼 LinkedIn: https://linkedin.com/in/your-profile
