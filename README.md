@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="palak.jpeg" width="200" style="border-radius:50%;" alt="Palak Deval"/>
+  <img src="palak.jpeg" width="180" alt="Palak Deval">
 </p>
 
 <h1 align="center">Hi 👋, I'm Palak Deval</h1>
