@@ -5,7 +5,10 @@
 </h3>
 
 <p align="center">
-<i>"Learning today. Building the future with AI."</i> 🚀
+<i>Where curiosity meets artificial intelligence. ✨
+</i> 🚀
+  <i>Every line of code brings ideas to life. 💻 
+</i> 🚀
 </p>
 
 
