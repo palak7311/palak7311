@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Palak+Deval;AI+%26+Machine+Learning+Enthusiast;Deep+Learning+Learner;Building+Intelligent+Solutions+🤖" />
 </p>
 
+<p align="center">
+  <img src="palak.jpeg" width="200" style="border-radius:50%;" alt="Palak Deval"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Palak Deval</h1>
 
 <h3 align="center">
